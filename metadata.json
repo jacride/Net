@@ -1,0 +1,6 @@
+{
+  "name": "Kestrel Studio",
+  "description": "Independent digital product design and web engineering studio building fast web applications, commerce storefronts, and modular design systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
